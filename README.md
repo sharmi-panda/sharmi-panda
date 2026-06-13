@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Sharmila S! ✨</h1>
+<h1 align="center">I'm Sharmila S! ✨</h1>
 
 <p align="center">
   <i>Data Science Student | AI Enthusiast | Green Tech </i>
@@ -45,12 +45,12 @@ The languages, frameworks, and tools I use to bring ideas to life:
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sharmi-panda&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ The languages, frameworks, and tools I use to bring ideas to life:
 *   **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis[cite: 1]. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
 *   **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks[cite: 1]. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate.
 
-*Check out the code in my [repositories](https://github.com/sharmi-panda)!*
+*Check out the code in my [repositories](https://github.com/sharmi-panda?tab=repositories)!*
 
 ---
 
