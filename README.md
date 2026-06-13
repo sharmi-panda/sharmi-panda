@@ -1,11 +1,83 @@
-- 👋 Hi, I’m @sharmi-panda
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Data analytics and quantum computing related stuffs
-- 📫 How to reach me , [linkedin](https://www.linkedin.com/in/sharmila-s-799823253/)
-- ⚡ Fun fact: JS is better than PHP(fun isn't it?)
+<h1 align="center">👋 Hi there, I'm Sharmila S! ✨</h1>
 
-<!---
-sharmi-panda/sharmi-panda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <i>Data Science Student 📊 | AI Enthusiast 🤖 | Green Tech Advocate 🌍</i>[cite: 1]
+  <br>
+  I'm an MCA candidate who loves building intelligent, automated systems to solve real-world problems. 🚀[cite: 1]
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50" />
+</p>
+
+---
+
+### 💡 A Little About Me
+
+For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI[cite: 1] or writing machine learning models to optimize energy use and reduce carbon footprints[cite: 1], I love turning complex data into clear, automated solutions. When I'm not diving into Big Data[cite: 1] or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability!
+
+---
+
+### 💻 Tech Stack & Tools
+
+The languages, frameworks, and tools I use to bring ideas to life:[cite: 1]
+
+<p align="left">
+  <!-- AI, ML, & Data -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <!-- Database & Backend -->
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <!-- Web & Tools -->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🚀 What I've Been Building
+
+*   🌊 **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand[cite: 1]. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%[cite: 1].
+*   🎙️ **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis[cite: 1]. It cuts manual production time by 95% while keeping the narrative flowing smoothly[cite: 1].
+*   📈 **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks[cite: 1]. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate[cite: 1].
+
+*Check out the code in my [repositories](https://github.com/YOUR_GITHUB_USERNAME)!*
+
+---
+
+### 🌱 My Journey Right Now
+
+*   **Currently focusing on:** Expanding my hands-on skills in full-stack web development with Python and Django[cite: 1].
+*   **Leadership:** I recently served as the Technical Director for the Women's Empowerment Cell[cite: 1] and the Arts and Cultural Secretary for the SACC Association[cite: 1].
+*   **Always learning:** I recently earned NPTEL Elite certifications in Cloud Computing and Big Data Computing[cite: 1]!
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to chatting about AI, green computing, or data science. Feel free to reach out!
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ssharmi1509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
