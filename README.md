@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi there, I'm Sharmila S! ✨</h1>
 
 <p align="center">
-  <i>Data Science Student 📊 | AI Enthusiast 🤖 | Green Tech Advocate 🌍</i>[cite: 1]
+  <i>Data Science Student | AI Enthusiast | Green Tech </i>
   <br>
-  I'm an MCA candidate who loves building intelligent, automated systems to solve real-world problems. 🚀[cite: 1]
+  I'm an MCA candidate who loves building intelligent, automated systems to solve real-world problems. 
 </p>
 
 <p align="center">
@@ -12,15 +12,15 @@
 
 ---
 
-### 💡 A Little About Me
+### A Little About Me
 
-For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI[cite: 1] or writing machine learning models to optimize energy use and reduce carbon footprints[cite: 1], I love turning complex data into clear, automated solutions. When I'm not diving into Big Data[cite: 1] or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability!
+For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI or writing machine learning models to optimize energy use and reduce carbon footprints, I love turning complex data into clear, automated solutions. When I'm not diving into Big Data or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability!
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
-The languages, frameworks, and tools I use to bring ideas to life:[cite: 1]
+The languages, frameworks, and tools I use to bring ideas to life:
 
 <p align="left">
   <!-- AI, ML, & Data -->
@@ -42,7 +42,7 @@ The languages, frameworks, and tools I use to bring ideas to life:[cite: 1]
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -55,29 +55,29 @@ The languages, frameworks, and tools I use to bring ideas to life:[cite: 1]
 
 ---
 
-### 🚀 What I've Been Building
+### What I've Been Building
 
-*   🌊 **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand[cite: 1]. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%[cite: 1].
-*   🎙️ **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis[cite: 1]. It cuts manual production time by 95% while keeping the narrative flowing smoothly[cite: 1].
-*   📈 **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks[cite: 1]. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate[cite: 1].
+*   **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand[cite: 1]. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%.
+*   **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis[cite: 1]. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
+*   **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks[cite: 1]. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate.
 
-*Check out the code in my [repositories](https://github.com/YOUR_GITHUB_USERNAME)!*
-
----
-
-### 🌱 My Journey Right Now
-
-*   **Currently focusing on:** Expanding my hands-on skills in full-stack web development with Python and Django[cite: 1].
-*   **Leadership:** I recently served as the Technical Director for the Women's Empowerment Cell[cite: 1] and the Arts and Cultural Secretary for the SACC Association[cite: 1].
-*   **Always learning:** I recently earned NPTEL Elite certifications in Cloud Computing and Big Data Computing[cite: 1]!
+*Check out the code in my [repositories](https://github.com/sharmi-panda)!*
 
 ---
 
-### 🤝 Let's Connect!
+### My Journey Right Now
+
+*   **Currently focusing on:** Expanding my hands-on skills in Deep Learning with Python.
+*   **Leadership:** I recently served as the Technical Director for the Women's Empowerment Cell and the Arts and Cultural Secretary for the SACC Association.
+*   **Always learning:** I recently earned NPTEL Elite certifications in Cloud Computing and Big Data Computing!
+
+---
+
+### Let's Connect!
 
 I'm always open to chatting about AI, green computing, or data science. Feel free to reach out!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/sharmila-s-799823253"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ssharmi1509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
