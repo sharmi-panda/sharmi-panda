@@ -12,7 +12,7 @@
 
 ---
 
-### A Little About Me
+### About Me
 
 For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI or writing machine learning models to optimize energy use and reduce carbon footprints, I love turning complex data into clear, automated solutions. When I'm not diving into Big Data or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability!
 
@@ -57,9 +57,9 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ### What I've Been Building
 
-*   **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand[cite: 1]. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%.
-*   **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis[cite: 1]. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
-*   **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks[cite: 1]. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate.
+*   **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%.
+*   **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
+*   **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate.
 
 *Check out the code in my [repositories](https://github.com/sharmi-panda?tab=repositories)!*
 
