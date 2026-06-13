@@ -77,7 +77,11 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 I'm always open to chatting about AI, green computing, or data science. Feel free to reach out!
 
+**Interested in my background? [Download my Resume here](./Sharmila.S.pdf)**
+
 <p align="left">
   <a href="https://linkedin.com/in/sharmila-s-799823253"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ssharmi1509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://kaggle.com/sharmi15"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://huggingface.co/Sharmi-panda"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" /></a>
 </p>
