@@ -14,7 +14,7 @@
 
 ### About Me
 
-For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI or writing machine learning models to optimize energy use and reduce carbon footprints, I love turning complex data into clear, automated solutions. When I'm not diving into Big Data or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability!
+For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI or writing machine learning models to optimize energy use and reduce carbon footprints, I love turning complex data into clear, automated solutions. When I'm not diving into Big Data or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability.
 
 ---
 
@@ -61,7 +61,7 @@ The languages, frameworks, and tools I use to bring ideas to life:
 *   **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
 *   **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate.
 
-*Check out the code in my [repositories](https://github.com/sharmi-panda?tab=repositories)!*
+*Check out the code in my [repositories](https://github.com/sharmi-panda?tab=repositories)*
 
 ---
 
@@ -69,7 +69,7 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 *   **Currently focusing on:** Expanding my hands-on skills in Deep Learning with Python.
 *   **Leadership:** I recently served as the Technical Director for the Women's Empowerment Cell and the Arts and Cultural Secretary for the SACC Association.
-*   **Always learning:** I recently earned NPTEL Elite certifications in Cloud Computing and Big Data Computing!
+*   **Always learning:** I recently earned NPTEL Elite certifications in Cloud Computing and Big Data Computing.
 
 ---
 
