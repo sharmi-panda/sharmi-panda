@@ -46,7 +46,8 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=sharmi-panda&theme=tokyonight" alt="GitHub Streak" />
+  <!-- The link below has been updated to fix the broken image -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
