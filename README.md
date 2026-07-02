@@ -1,7 +1,7 @@
-<h1 align="center">I'm Sharmila ✨</h1>
+<h1 align="center">Hi, I'm Sharmila S! ✨</h1>
 
 <p align="center">
-  <i>Data Science Student | AI Enthusiast | Green Tech </i>
+  <i>Data Science Student | AI Enthusiast | Green Tech Advocate</i>
   <br>
   I'm an MCA candidate who loves building intelligent, automated systems to solve real-world problems. 
 </p>
@@ -12,13 +12,13 @@
 
 ---
 
-### About Me
+### 💡 A Little About Me
 
-For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI or writing machine learning models to optimize energy use and reduce carbon footprints, I love turning complex data into clear, automated solutions. When I'm not diving into Big Data or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability.
+For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI or writing machine learning models to optimize energy use and reduce carbon footprints, I love turning complex data into clear, automated solutions. When I'm not diving into Big Data or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability!
 
 ---
 
-### Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 The languages, frameworks, and tools I use to bring ideas to life:
 
@@ -42,21 +42,22 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <!-- The link below has been updated to fix the broken image -->
+  <!-- Added cache_seconds to prevent Vercel timeout errors -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <!-- Added cache_seconds to prevent Vercel timeout errors -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Most Used Languages" />
 </p>
 
 ---
 
-### What I've Been Building
+### 🚀 What I've Been Building
 
 *   **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%.
 *   **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
@@ -66,7 +67,7 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ---
 
-### My Journey Right Now
+### 🌱 My Journey Right Now
 
 *   **Currently focusing on:** Expanding my hands-on skills in Deep Learning with Python.
 *   **Leadership:** I recently served as the Technical Director for the Women's Empowerment Cell and the Arts and Cultural Secretary for the SACC Association.
@@ -74,11 +75,11 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ---
 
-### Let's Connect!
+### 🤝 Let's Connect!
 
 I'm always open to chatting about AI, green computing, or data science. Feel free to reach out!
 
-**Interested in my background? [Download my Resume here](./Sharmila.S-2511022250042.pdf)**
+**📄 Interested in my background? [Download my Resume here](./Sharmila.S-2511022250042.pdf)**
 
 <p align="left">
   <a href="https://linkedin.com/in/sharmila-s-799823253"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
