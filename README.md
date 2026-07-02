@@ -23,18 +23,14 @@ For me, coding is about making a tangible impact. Whether I'm orchestrating mult
 The languages, frameworks, and tools I use to bring ideas to life:
 
 <p align="left">
-  <!-- AI, ML, & Data -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <!-- Database & Backend -->
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <!-- Visualization -->
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-  <!-- Web & Tools -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -44,19 +40,22 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ### 📊 GitHub Stats
 
-<!-- Switching to pure Markdown syntax and adding count_private to force a brand new API request -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/sharmi-panda)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight)](https://github.com/sharmi-panda)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&hide_border=false&ignore_cache=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight&hide_border=false&ignore_cache=true" alt="GitHub Streak" />
+</p>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight&count_private=true)](https://github.com/sharmi-panda)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight&hide_border=false&ignore_cache=true" alt="Most Used Languages" />
+</p>
 
 ---
 
 ### 🚀 What I've Been Building
 
-*   **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%.
-*   **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
-*   **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate.
+* **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%.
+* **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
+* **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate.
 
 *Check out the code in my [repositories](https://github.com/sharmi-panda?tab=repositories)*
 
@@ -64,9 +63,9 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ### 🌱 My Journey Right Now
 
-*   **Currently focusing on:** Expanding my hands-on skills in Deep Learning with Python.
-*   **Leadership:** I recently served as the Technical Director for the Women's Empowerment Cell and the Arts and Cultural Secretary for the SACC Association.
-*   **Always learning:** I recently earned NPTEL Elite certifications in Cloud Computing and Big Data Computing.
+* **Currently focusing on:** Expanding my hands-on skills in Deep Learning with Python.
+* **Leadership:** I recently served as the Technical Director for the Women's Empowerment Cell and the Arts and Cultural Secretary for the SACC Association.
+* **Always learning:** I recently earned NPTEL Elite certifications in Cloud Computing and Big Data Computing.
 
 ---
 
