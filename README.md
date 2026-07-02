@@ -44,16 +44,11 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <!-- Added &v=1 to force GitHub to refresh the image cache -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<!-- Switching to pure Markdown syntax and adding count_private to force a brand new API request -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/sharmi-panda)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight)](https://github.com/sharmi-panda)
 
-<p align="left">
-  <!-- Added &v=1 to force GitHub to refresh the image cache -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight&v=1" alt="Most Used Languages" />
-</p>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight&count_private=true)](https://github.com/sharmi-panda)
 
 ---
 
