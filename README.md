@@ -47,9 +47,6 @@ The languages, frameworks, and tools I use to bring ideas to life:
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
 src="https://streak-stats.demolab.com?user=sharmi-panda&theme=tokyonight&hide_border=true"/>
 
 </p>
