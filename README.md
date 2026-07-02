@@ -53,7 +53,7 @@ src="https://streak-stats.demolab.com?user=sharmi-panda&theme=tokyonight&hide_bo
 
 ---
 
-### 🚀 What I've Been Building
+###  What I've Been Building
 
 *   **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%.
 *   **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
@@ -63,7 +63,7 @@ src="https://streak-stats.demolab.com?user=sharmi-panda&theme=tokyonight&hide_bo
 
 ---
 
-### 🌱 My Journey Right Now
+###  My Journey Right Now
 
 *   **Currently focusing on:** Expanding my hands-on skills in Deep Learning with Python.
 *   **Leadership:** I recently served as the Technical Director for the Women's Empowerment Cell and the Arts and Cultural Secretary for the SACC Association.
@@ -71,11 +71,11 @@ src="https://streak-stats.demolab.com?user=sharmi-panda&theme=tokyonight&hide_bo
 
 ---
 
-### 🤝 Let's Connect!
+###  Let's Connect!
 
 I'm always open to chatting about AI, green computing, or data science. Feel free to reach out!
 
-**📄 Interested in my background? [Download my Resume here](./Sharmila.S-2511022250042.pdf)**
+** Interested in my background? [Download my Resume here](./Sharmila.S-2511022250042.pdf)**
 
 <p align="left">
   <a href="https://linkedin.com/in/sharmila-s-799823253"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
