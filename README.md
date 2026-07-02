@@ -44,8 +44,6 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
 
 <img height="170"
