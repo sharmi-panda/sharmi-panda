@@ -12,13 +12,13 @@
 
 ---
 
-### 💡 A Little About Me
+###  About Me
 
 For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI or writing machine learning models to optimize energy use and reduce carbon footprints, I love turning complex data into clear, automated solutions. When I'm not diving into Big Data or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability!
 
 ---
 
-### 💻 Tech Stack & Tools
+###  Tech Stack & Tools
 
 The languages, frameworks, and tools I use to bring ideas to life:
 
@@ -42,7 +42,7 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
 
@@ -51,13 +51,6 @@ src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons
 
 <img height="170"
 src="https://streak-stats.demolab.com?user=sharmi-panda&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
