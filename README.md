@@ -45,14 +45,14 @@ The languages, frameworks, and tools I use to bring ideas to life:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <!-- Added cache_seconds to prevent Vercel timeout errors -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <!-- Added &v=1 to force GitHub to refresh the image cache -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <!-- Added cache_seconds to prevent Vercel timeout errors -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Most Used Languages" />
+  <!-- Added &v=1 to force GitHub to refresh the image cache -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight&v=1" alt="Most Used Languages" />
 </p>
 
 ---
