@@ -42,17 +42,22 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ---
 
-###  GitHub Stats
+##  GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170"
-src="https://streak-stats.demolab.com?user=sharmi-panda&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharmi-panda&theme=tokyo-night&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmi-panda&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 ###  What I've Been Building
 
 *   **AI Water Demand Forecasting:** I built an XGBoost predictive engine to forecast institutional water demand. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%.
