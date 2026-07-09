@@ -43,9 +43,7 @@ The languages, frameworks, and tools I use to bring ideas to life:
 ---
 
 ##  GitHub Stats
-
 <p align="center">
-
   <img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight&hide_border=true" />
 </p>
 
