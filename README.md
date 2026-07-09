@@ -44,10 +44,7 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ##  GitHub Stats
 
-<p align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sharmi-panda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmi-panda&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img width="70%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sharmi-panda&theme=tokyo-night&hide_border=true" />
