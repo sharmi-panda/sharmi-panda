@@ -68,7 +68,6 @@ The languages, frameworks, and tools I use to bring ideas to life:
 *   **Currently focusing on:** Expanding my hands-on skills in Deep Learning with Python.
 *   **Leadership:** I recently served as the Technical Director for the Women's Empowerment Cell and the Arts and Cultural Secretary for the SACC Association.
 *   **Always learning:** I recently earned NPTEL Elite certifications in Cloud Computing and Big Data Computing.
-
 ---
 
 ###  Let's Connect!
