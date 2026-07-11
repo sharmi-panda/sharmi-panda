@@ -3,7 +3,7 @@
 <p align="center">
   <i>Data Science Student | AI Enthusiast | Green Tech Advocate</i>
   <br>
-  I'm an MCA candidate who loves building intelligent, automated systems to solve real-world problems. 
+  I'm an MCA candidate who loves to building intelligent, automated systems to solve real-world problems. 
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ###  About Me
 
-For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI or writing machine learning models to optimize energy use and reduce carbon footprints, I love turning complex data into clear, automated solutions. When I'm not diving into Big Data or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability!
+For me, coding is about making a tangible impact. Whether I'm orchestrating multi-agent workflows using CrewAI or writing machine learning models to optimize energy use and reduce carbon footprints, I love turning complex data into clear, automated solutions. When I'm not diving into Big Data or tweaking algorithms, you can usually find me exploring new ways to blend data science with sustainability.
 
 ---
 
