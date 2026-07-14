@@ -56,8 +56,8 @@ The languages, frameworks, and tools I use to bring ideas to life:
 ###  What I've Been Building
 
 *   **[AI Water Demand Forecasting](https://github.com/sharmi-panda/AI-Water-Demand-Forecasting):** I built an XGBoost predictive engine to forecast institutional water demand. By pairing this with a "Smart Pumping" decision support system, I helped reduce campus energy costs by 18%.
-*   **Echo Agent - The AI Podcaster:** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
-*   **Stock Price Prediction Model:** I developed a Random Forest Regressor to forecast 5-day stock trends for major banks. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate.
+*   **[Echo Agent - The AI Podcaster](https://github.com/sharmi-panda/Echo-Agent---The-AI-Podcaster ):** I designed a multi-agent AI system using CrewAI that automates research, scriptwriting, and voice synthesis. It cuts manual production time by 95% while keeping the narrative flowing smoothly.
+*   **[Stock Price Prediction Model](https://github.com/sharmi-panda/Stock-Price-Prediction-Random-Forest-Model):**I developed a Random Forest Regressor to forecast 5-day stock trends for major banks. By fine-tuning the feature engineering, I achieved a 92% predictive accuracy rate.
 
 *Check out the code in my [repositories](https://github.com/sharmi-panda?tab=repositories)*
 
