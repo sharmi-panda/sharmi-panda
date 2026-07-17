@@ -45,14 +45,10 @@ The languages, frameworks, and tools I use to bring ideas to life:
 ###  GitHub Stats
 
 <p align="center">
-  <!-- 
-    Temporarily hidden due to public server downtime. 
-    <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sharmi-panda&theme=tokyonight&hide_border=true&v=999" />
-  -->
+  <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sharmi-panda&theme=tokyonight&hide_border=true&v=999" />
 </p>
 
 <p align="center">
-  <!-- The Activity Graph is still up and running! -->
   <img width="70%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sharmi-panda&theme=tokyo-night&hide_border=true&v=1" />
 </p>
 
