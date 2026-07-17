@@ -46,18 +46,13 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 <p align="center">
   <!-- 
-    GitHub Streak Stats
-    Using the Demolab backup server for better reliability.
-    The &v=999 forces GitHub to refresh the image if it ever gets stuck.
+    Temporarily hidden due to public server downtime. 
+    <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sharmi-panda&theme=tokyonight&hide_border=true&v=999" />
   -->
-  <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sharmi-panda&theme=tokyonight&hide_border=true&v=999" />
 </p>
 
 <p align="center">
-  <!-- 
-    GitHub Activity Graph
-    The &v=1 ensures the graph stays up-to-date with the latest daily commits.
-  -->
+  <!-- The Activity Graph is still up and running! -->
   <img width="70%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sharmi-panda&theme=tokyo-night&hide_border=true&v=1" />
 </p>
 
