@@ -42,17 +42,23 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sharmi-panda&theme=tokyonight&hide_border=true&v=999" />
+  <img
+    src="https://streak-stats.demolab.com?user=sharmi-panda&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img width="70%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sharmi-panda&theme=tokyo-night&hide_border=true&v=1" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sharmi-panda&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="80%"
+  />
 </p>
-
----
   
 ###  What I've Been Building
 
