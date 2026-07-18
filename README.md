@@ -46,14 +46,6 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=sharmi-panda&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=sharmi-panda&theme=tokyo-night&hide_border=true"
     alt="GitHub Activity Graph"
     width="80%"
