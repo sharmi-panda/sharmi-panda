@@ -75,7 +75,7 @@ The languages, frameworks, and tools I use to bring ideas to life:
 
 I'm always open to chatting about AI, green computing, or data science. Feel free to reach out!
 
-** Interested in my background? [Download my Resume here](./Sharmila.S-resume.pdf)**
+**Interested in my background? [Download my Resume here](./Sharmila.S-resume.pdf)**
 
 <p align="left">
   <a href="https://linkedin.com/in/sharmila-s-799823253"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
