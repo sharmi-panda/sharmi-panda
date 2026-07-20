@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Sharmila S ✨</h1>
 
 <p align="center">
-  <b> Data Science Student | AI Enthusiast | Green Tech Advocate | Passion to learn new stuffs</b>
+  <b> Data Science Student | AI Enthusiast | Green Tech Advocate | Passion to learn new technologies</b>
   <br>
   I'm an MCA candidate who loves to building intelligent, automated systems to solve real-world problems. 
 </p>
