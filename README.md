@@ -20,7 +20,7 @@ For me, coding is about making a tangible impact. Whether I'm orchestrating mult
 
 ###  Tech Stack & Tools
 
-The languages, frameworks, and tools I use to bring ideas to life:
+The languages, frameworks, and tools I use to bring ideas to life
 
 <p align="left">
   <!-- AI, ML, & Data -->
