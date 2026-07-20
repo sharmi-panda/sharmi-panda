@@ -71,7 +71,7 @@ The languages, frameworks, and tools I use to bring ideas to life:
 *   **Always learning:** I recently earned NPTEL Elite certifications in Cloud Computing and Big Data Computing.
 ---
 
-###  Let's Connect!
+###  Let's Connect
 
 I'm always open to chatting about AI, green computing, or data science. Feel free to reach out!
 
