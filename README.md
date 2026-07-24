@@ -1,4 +1,4 @@
-<h1 align="center">I'm Sharmila S ✨</h1>
+<h1 align="center">I'm Sharmila S </h1>
 
 <p align="center">
   <b> Data Science Student | AI Enthusiast | Green Tech Advocate | Passion to learn new technologies</b>
